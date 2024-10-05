@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/19fc637c-b1d7-4f6d-9061-d1525944abc1" width="500" >
 </p>
   
-## Blood Input Function
+## Overview of Blood Input Function
 Tracer kinetic modeling is a fundamental technique in dynamic positron emission tomography (PET) that uses mathematical models to extract physiologically significant parameters from the measured data. A blood input function is commonly required to serve as the input to the kinetic model and then used to fit the time activity curve (TAC) of a tissue region of interest or image voxel. However, obtaining a reliable input function is challenging in several contexts and has attracted much effort in the technical field.
 
 ## OpenIFun: an OpenKMI data project
