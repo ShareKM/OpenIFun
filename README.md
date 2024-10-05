@@ -10,9 +10,9 @@ Tracer kinetic modeling is a fundamental technique in dynamic positron emission 
 **OpenIFun** is an open-data project, launched as a part of the Open Kinetic Modeling Initiative (OpenKMI), aiming to build a database of blood input functions for tracer kinetic modeling in dynamic PET data. It uses total-body PET scanners to collect image-derived input functions (IDIF) from dynamic PET scans of human subjects. The database includes
 - **IFun4FDG**: The first phase of this data project plans to collect the IDIFs of 200 human subjects performed with a long axial field-of-view PET scanner at multiple institutions.
 
-## Applications of OpenIFun
+## Applications of the OpenIFun Database
 
-This database has several crucial applications. Examples include, but are not limited to:
+This database has several crucial technical applications. Examples include, but are not limited to:
 
 - Develop population-based input function models, for instance, for whole-body Patlak parametric imaging of shortened dynamic scans that do not include an early dynamic scan for deriving the complete blood input function.
 - Develop optimization-derived blood input functions for dynamic brain PET imaging with conventional PET scanners.
