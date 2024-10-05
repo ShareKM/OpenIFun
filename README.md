@@ -12,7 +12,7 @@ Tracer kinetic modeling is a fundamental technique in dynamic positron emission 
 
 ## Applications of the OpenIFun Database
 
-This database has several crucial technical applications. Examples include, but are not limited to:
+The OpenIFun database may have several important technical applications for kinetic modeling and parametric imaging with both short- and long-axial field-of-view PET scanners. Examples include, but are not limited to:
 
 - Develop population-based input function models, for instance, for whole-body Patlak parametric imaging of shortened dynamic scans that do not include an early dynamic scan for deriving the complete blood input function.
 - Develop optimization-derived blood input functions for dynamic brain PET imaging with conventional PET scanners.
