@@ -23,4 +23,4 @@ The **OpenIFun** database includes:
 1. **OpenIFun4FDG**: This data project uses total-body PET scanners to collect image-derived input functions (IDIF) from dynamic PET scans of human subjects. Its first phase plans to collect the IDIFs of 200 human subject scans performed with a long axial field-of-view PET scanner (e.g. UIH uEXPLORER and Siemens Quadra) at multiple institutions.
 
 >[!NOTE]
->**Ongoing Effort**: This data project is in progress and has not been formally announced. The database and its GitHub page are continually being updated.
+>**Ongoing Effort**: This data project is **in progress** and has not been formally announced. The database and its GitHub page are continually being updated.
