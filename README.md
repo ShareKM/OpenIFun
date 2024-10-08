@@ -4,7 +4,7 @@
   
 ## OpenIFun: an OpenKMI data project
 
-Tracer kinetic modeling is a fundamental technique in dynamic positron emission tomography (PET) that uses mathematical models to extract physiologically significant parameters from the measured data. A blood input function is commonly required to serve as the input to the kinetic model and then used to fit the time activity curve (TAC) of a tissue region of interest or image voxel. However, obtaining a reliable input function is challenging in several contexts and has attracted much research effort in the technical field, see a recent survey and perspective article by [Volpi et al.](https://ejnmmires.springeropen.com/articles/10.1186/s13550-023-01050-w)
+Tracer kinetic modeling is a fundamental technique in dynamic positron emission tomography (PET) that uses mathematical models to extract physiologically significant parameters from the measured data. A blood input function is commonly required to serve as the input to the kinetic model and then used to fit the time activity curve (TAC) of a tissue region of interest or image voxel. However, obtaining a reliable input function is challenging in several contexts and has attracted much research effort in the technical field, see a recent survey and perspective article by [Volpi et al. 2023](https://ejnmmires.springeropen.com/articles/10.1186/s13550-023-01050-w)
 
 **OpenIFun** is an open-data project, launched as a part of the **[Open Kinetic Modeling Initiative (OpenKMI)](https://www.openkmi.org/)**, aiming to build a database of blood input functions for tracer kinetic modeling in molecular imaging with dynamic PET. It uses total-body PET scanners to collect image-derived input functions (IDIF) from dynamic PET scans of human subjects. 
 
@@ -12,9 +12,9 @@ Tracer kinetic modeling is a fundamental technique in dynamic positron emission 
 
 The OpenIFun database may have several important technical applications for kinetic modeling and parametric imaging with both short- and long-axial field-of-view PET scanners. Examples include, but are not limited to:
 
-- Develop population-based input function models, for instance, for whole-body Patlak parametric imaging of shortened dynamic scans that do not include an early dynamic scan for deriving the complete blood input function.
-- Develop optimization-derived blood input functions for dynamic brain PET imaging with conventional PET scanners.
-- Develop deep-learning models and algorithms by providing training pairs of high-quality and low-quality IDIFs and associated other types of data.
+- Developing population-based input function (PBIF) models, for instance, for whole-body Patlak parametric imaging of shortened dynamic scans that do not include an early dynamic scan for deriving the complete blood input function. Examples: [van Sluis et al. 2024](https://doi.org/10.2967/jnumed.124.267784)
+- Developing optimization-derived input functions (ODIF) for dynamic brain PET imaging with conventional PET scanners. Examples: [Y Zhu et al. 2024](https://doi.org/10.1016/j.neuroimage.2024.120611)
+- Developing deep-learning models and algorithms by providing training pairs of high-quality and low-quality IDIFs and associated other types of data. Examples: [T Wang et al. 2024](https://ieeexplore.ieee.org/document/10443660)
 
 ## The Database
 
