@@ -16,7 +16,7 @@ The OpenIFun database may have several important technical applications for kine
 - Developing optimization-derived input functions (ODIF) for dynamic brain PET imaging with conventional PET scanners. 
 - Developing deep-learning models and algorithms by providing training pairs of high-quality and low-quality IDIFs and associated other types of data.
 
-## The Database
+## Key Components of the Database
 
 The **OpenIFun** database includes:
 
