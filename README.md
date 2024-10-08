@@ -12,8 +12,8 @@ Tracer kinetic modeling is a fundamental technique in dynamic positron emission 
 
 The OpenIFun database may have several important technical applications for kinetic modeling and parametric imaging with both short- and long-axial field-of-view PET scanners. Examples include, but are not limited to:
 
-- Developing population-based input function (PBIF) models, for instance, for whole-body Patlak parametric imaging of shortened dynamic scans that do not include an early dynamic scan for deriving the complete blood input function. 
-- Developing optimization-derived input functions (ODIF) for dynamic brain PET imaging with conventional PET scanners. 
+- Developing population-based input function models, for instance, for whole-body Patlak parametric imaging of shortened dynamic scans that do not include an early dynamic scan for deriving the complete blood input function. 
+- Developing optimization-derived input functions for dynamic brain PET imaging with conventional PET scanners. 
 - Developing deep-learning models and algorithms by providing training pairs of high-quality and low-quality IDIFs and associated other types of data.
 
 ## Key Components of the Database
