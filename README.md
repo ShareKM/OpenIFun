@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/900de56a-c085-45c5-adde-31c827832812" width="500" >
+  <img src="https://github.com/user-attachments/assets/8c4089a7-3563-4973-9015-3a2b48ae98fc" width="500" >
 </p>
 
 ## OpenIFun
