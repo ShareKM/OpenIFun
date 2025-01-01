@@ -8,7 +8,7 @@ Tracer kinetic modeling is a fundamental technique in dynamic positron emission 
 
 **ShareIF** is an open-data project to support the [Open Kinetic Modeling Initiative](https://www.openkmi.org/), aiming to build a database of blood input functions for tracer kinetic modeling in molecular imaging with dynamic PET. 
 
-## Significance of the OpenIFun Database
+## Significance of the ShareIF Database
 
 The **ShareIF** database may have several important technical applications for kinetic modeling and parametric imaging with both short- and long-axial field-of-view PET scanners. Examples include, but are not limited to:
 
