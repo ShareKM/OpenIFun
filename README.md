@@ -20,7 +20,7 @@ The **ShareIF** database may have several important technical applications for k
 
 The **ShareIF** database includes:
 
-1. **ShareIF4FDG**: This data project uses total-body PET scanners to collect image-derived input functions (IDIF) from dynamic PET scans of human subjects. Its first phase plans to collect the IDIFs of over 200 human subject scans performed with long axial field-of-view PET scanners (e.g. UIH uEXPLORER and Siemens Quadra).
+1. **ShareIF4FDG**: This data project uses total-body PET scanners to collect image-derived input functions (IDIF) from dynamic [F-18]fluorodeoxyglucose (FDG) PET scans of human subjects. Its first phase plans to collect the IDIFs of over 200 human subject FDG scans performed with long axial field-of-view PET scanners (e.g. UIH uEXPLORER and Siemens Quadra).
 
 >[!NOTE]
 >**Ongoing Effort**: This data project is **in progress** and has not been formally announced. The database and its GitHub page are continually being updated.
